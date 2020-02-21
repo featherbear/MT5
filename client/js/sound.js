@@ -1,5 +1,5 @@
 // Amine Hallili
-//hooking the interface object to the window
+// Hooking the interface object to the window
 window.View = new View();
 
 // The current song
